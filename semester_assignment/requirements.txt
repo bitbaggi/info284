@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+contractions
+emoji
+scipy
+PIL
+dataclasses
+keras
+tensorflow
+matplotlib
+seaborn
